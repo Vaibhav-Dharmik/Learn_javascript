@@ -1,0 +1,50 @@
+--TITLE: INTRO. TO WEBPAGES AND BASICS/ORIGIN OF JAVASCRIPT
+
+**Webpages** 
+
+URL(Uniform Resourse Locator):  https://www.google.com 
+      here  " https " is the protocol , " www. " is  Subdomain , " google.com " is Domain and domain suffix 
+      in Addition in URL there are Directories and files listening which can be stated in URL as below
+      
+      " https://www.google.com/images/nature.jpg " in this URL " /images " is use for listening 'images' directory
+         and " /nature.jpg " is the file in the 'images' directory
+   URL is also knbown as web-address or internet address.
+         
+IMPORTANT NOTE: whenever we loads the URL the first file will going to load is " index.html " file( index file).
+
+---------------------------------------------------------------------------------------------------------------------------
+
+** Basic Languages of Webpages **
+
+In basic HTML (Hypertext Markup Language), CSS (Cascading Style Sheet) and JS (Javascript).
+HTML -> 'html' is used for developing a font-end of web-page.
+CSS -> 'css' is used to butify the webpage.
+JS -> 'js' is scripting language used to write scripts as like changing effects at run time.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+** JavaScript (JS) ** 
+
+  "JavaScript" is a trademark of Oracle Corporation in the United States.
+  
+  JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive
+  (e.g., having complex animations, clickable buttons, popup menus, etc.).
+  
+  In September 1995, a Netscape programmer named "Brandan Eich" developed a new scripting language in just 10 days. 
+  It was originally named Mocha, but quickly became known as LiveScript, and later, JavaScript.
+  
+  Now a days we see many libraries, Frameworks which were build in JS some of them are Jquery, Node.js, Angular, React, etc.
+  
+ I think this will be enough intro about JS.
+ One more Important thing 
+   Why Learn JavaScript?
+   => JavaScript is among the most powerful and flexible programming languages of the web. 
+      It powers the dynamic behavior on most websites, like Netflix, Facebook, Instagram etc.
+ 
+ Most of the companies where using JS libraries, frameworks. So, learning JS is not the waste of Time it will always be helpful.
+  
+------------------------------------------------------------------------------------------------------------------------------
+
+Learning Reference's you can use:
+1)  https://www.w3schools.com/js/
+2)  https://www.javatpoint.com/javascript-tutorial
