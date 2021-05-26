@@ -1,0 +1,44 @@
+<!-- In HTML page to write javascript code, we write javascript code in <script> </script> tag -->
+
+<!DOCTYPE html>
+
+<head>
+    <title>First javascript Programm</title>
+
+    <script>
+        // There are 4 different Ways to display/see Output in javaScript   
+        // 1. alert()
+        // 2. concole.log()
+        // 3. document.write()
+        // 4. document.getElementById.innerHTML
+
+        // 1. alert()
+        alert("Lets go, with javaScript: from alert");
+
+        // 2. console.log()
+        console.log("Lets go, with javaScript: from console.log()");
+        // you can view it, by inpecting webpage or by using ctrl+shift+i in edge
+
+        // 3. document.write()
+        document.write("Lets go, with javaScript: from document.write()");
+
+        
+    </script>
+
+</head>
+
+<body>
+
+    <div id="box"></div>
+    <div id="box_external"></div>
+
+</body>
+<script>
+    // 4. document.getElementById('id').innerHTML=''
+    document.getElementById('box').innerHTML = "Lets go, with javaScript: from document.getElementById('').innerHTML('')"
+
+    // above code is written below the programm because the code runs first before the target. so, id haven't been found so it gives error in console
+</script>
+<!-- It will be a good practice to include script file below as it runs from Top to bottom -->
+<script src="script.js"></script>
+</html>
